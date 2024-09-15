@@ -1,15 +1,22 @@
 # Chromium Extensions 
 - Ublock Origin
 
+# Personal Web Blogs 
+
+# Fediverse
+- Mastadon (FOSS)
+- Mastadon (General) 
+
 # Stack Exchange
 - Stack Overflow
 - Math Overflow
 - Stack InfoSec
 
 # Forums
-- Linux Questions
-- Arch Linux
-- Gentoo
+- Linux Questions:
+- Arch Linux:
+- Gentoo:
+- 0x00sec: 
 
 # Tech Cert Study
 - ITProTV 
