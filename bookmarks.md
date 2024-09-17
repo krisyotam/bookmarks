@@ -1,5 +1,33 @@
 # My Websites 
 
+# Identity Protection 
+- Aura Identity Firm
+- IronVest
+
+# Prompts
+- Promptbase:
+- PromptPerfect: 
+
+# AI Hubs
+- Futuretools:
+  
+# Generative AI
+- Chatgpt
+
+# Maintenence 
+- JustGetMyData: https://justgetmydata.com/
+- JustDeleteMe: https://justdeleteme.xyz/
+- SayMine: https://www.saymine.com/
+
+# Typing 
+- https://10fastfingers.com/
+- https://keybr.com/
+- https://monkeytype.com/
+
+# Games
+- https://www.geoguessr.com/
+- https://lichess.org/
+
 # News 
 - https://www.allsides.com/media-bias
 - https://www.reuters.com/
@@ -122,10 +150,10 @@
 - TryHackMe: https://tryhackme.com/
 
 # Cybersecurity
-
+- 
 
 # Pentesting 
-
+- 
 
 # VPNs
 - Mullvad: https://mullvad.net/en 
@@ -149,15 +177,24 @@
 - Excercism: https://exercism.org/dashboard
 - Codex.io: https://www.codedex.io/@krisyotam
 
+# Content 
+- Rumble: https://rumble.com/
+- Odyssey: https://odysee.com/
+
 # Entertainment 
 - 9anime: https://9animetv.to/home
-- Manganato: https://manganato.com/index.php 
+- Manganato: https://manganato.com/index.php
+
 
 # Computer Algebraic Solver (CAS) 
 - https://www.mathworks.com/
 
 # Office Suite
-- LibreOffice: https://www.libreoffice.org/ 
+- LibreOffice: https://www.libreoffice.org/
+
+# Biblical 
+- https://www.gotquestions.org
+- https://www.blueletterbible.org/
 
 # Word Processors 
 - Write Freely: https://writefreely.org/ 
