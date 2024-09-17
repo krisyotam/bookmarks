@@ -1,5 +1,15 @@
 # My Websites 
 
+# News 
+- https://www.allsides.com/media-bias
+- https://www.reuters.com/
+- 
+
+
+# My School 
+- https://iu.instructure.com/
+- 
+
 # Concierge
 - https://quintessentially.com/
 
