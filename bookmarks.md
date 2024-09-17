@@ -3,12 +3,18 @@
 # News 
 - https://www.allsides.com/media-bias
 - https://www.reuters.com/
-- 
+- https://www.barrons.com/
+- https://www.wsj.com/
 
 
 # My School 
 - https://iu.instructure.com/
 - 
+
+# Research 
+- https://www.researchgate.net/
+- https://www.academia.edu/
+- https://www.mendeley.com/
 
 # Concierge
 - https://quintessentially.com/
