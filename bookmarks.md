@@ -1,5 +1,18 @@
 # My Websites 
-- 
+
+# Concierge
+- https://quintessentially.com/
+
+# Auction Houses
+- https://www.christies.com/en
+- https://www.sothebys.com/en
+- https://hindmanauctions.com/auctions/1296-A-Lasting-Legacy-The-Estate-of-Michael-Mennello
+
+# Online Banking 
+- U.S. Bank: https://www.usbank.com/index.html
+- Charles Schwab: https://client.schwab.com/
+- Fidelity: https://www.fidelity.com/
+- Revolut: https://sso.revolut.com/
 
 # Version Control 
 - Gitea: https://about.gitea.com/
@@ -11,6 +24,10 @@
 - https://us.loropiana.com/en/my-loro-piana/account
 - https://www.ralphlauren.com/account?LoginLocation=MyAccountLogin&Registration=true
 - https://www.celine.com/en-us/celine-shop-men/celine-tailoring/?nav=E0104
+- Columbia: https://www.columbia.com/
+- North Face: https://www.thenorthface.com/en-us
+- https://urth.co/
+- https://www.mous.co/
 
 
 # Chromium Extensions 
