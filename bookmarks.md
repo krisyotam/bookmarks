@@ -1,11 +1,27 @@
 # My Websites 
+- 
+
+# Version Control 
+- Gitea: https://about.gitea.com/
+- Github: https://github.com/krisyotam
+- Gitlab: https://about.gitlab.com/
+
+# Shop 
+- https://shop.brunellocucinelli.com/en-us/account
+- https://us.loropiana.com/en/my-loro-piana/account
+- https://www.ralphlauren.com/account?LoginLocation=MyAccountLogin&Registration=true
+- https://www.celine.com/en-us/celine-shop-men/celine-tailoring/?nav=E0104
 
 
 # Chromium Extensions 
 - Ublock Origin
+- Unhooked
+- Awesome Screenshot
+- Minimal 
 
 # Personal Web Blogs 
-- The Kris Pages: --> Dark Web Sites 
+- The Kris Pages: --> Dark Web Sites
+- Kris's Interweb: --> Database of personal internet sites 
 
 # Machine Learning 
 - Hugging Face: 
@@ -32,8 +48,8 @@
 - Mastadon (General): https://mastodon.social/@krisyotam 
 
 # Stack Exchange
-- Stack Overflow: 
-- Math Overflow: 
+- Stack Overflow: https://stackoverflow.com/ 
+- Math Overflow: https://mathoverflow.net/
 - Stack InfoSec: https://security.stackexchange.com/
 
 # Forums
@@ -67,10 +83,10 @@
 - MIT OpenCourseWare: 
 
 # Capture The Flag (CTF)
-- HackTheBox: 
-- HackTheBox CTF:
-- HackTheBox Academy: 
-- TryHackMe: 
+- HackTheBox: https://www.hackthebox.com/
+- HackTheBox CTF: https://ctf.hackthebox.com/ 
+- HackTheBox Academy: https://academy.hackthebox.com/
+- TryHackMe: https://tryhackme.com/
 
 # Cybersecurity
 
