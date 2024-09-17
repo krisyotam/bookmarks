@@ -4,11 +4,11 @@
 # Personal Web Blogs 
 
 # Fediverse
-- Mastadon (FOSS)
-- Mastadon (General) 
+- Mastadon (FOSS): https://fosstodon.org/@krisyotam 
+- Mastadon (General): https://mastodon.social/@krisyotam 
 
 # Stack Exchange
-- Stack Overflow
+- Stack Overflow: 
 - Math Overflow
 - Stack InfoSec
 
