@@ -1,15 +1,19 @@
 # My Websites 
+- Coaching: https://beacons.ai/krisyotam/home
+- Tech Blog:
+- Tech Portfolio:
+- Math Blog: 
 
 # Identity Protection 
-- Aura Identity Firm
-- IronVest
+- Aura Identity Firm: https://www.aura.com/identity-theft-protection 
+- IronVest: https://ironvest.com/
 
 # Prompts
-- Promptbase:
-- PromptPerfect: 
+- Promptbase: https://promptbase.com/
+- PromptPerfect: https://promptperfect.jina.ai/
 
 # AI Hubs
-- Futuretools:
+- Futuretools: https://www.futuretools.io/
   
 # Generative AI
 - Chatgpt
