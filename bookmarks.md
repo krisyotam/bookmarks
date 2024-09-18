@@ -1,7 +1,7 @@
 # My Websites 
 - Coaching: https://beacons.ai/krisyotam/home
-- Tech Blog:
-- Tech Portfolio:
+- Tech Blog: https://krisyotam.github.io/myblog/
+- Tech Portfolio: https://krisyotam.github.io/myportfolio/
 - Math Blog: 
 
 # Identity Protection 
