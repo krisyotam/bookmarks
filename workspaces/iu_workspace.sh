@@ -1,8 +1,19 @@
 #!/bin/bash
 
 # Open school-related links in the default browser
+
 # Canvas
 xdg-open "https://example.com/canvas"
+
+# Canvas Mathematics 
+xdg-open "https://iu.instructure.com/courses/2261435" # Pre-Calc Home Page 
+xdg-open "https://iu.instructure.com/courses/2261435/grades" # Pre-Calc Grades
+xdg-open "https://iu.instructure.com/courses/2261435/discussion_topics" # Pre-Calc Discussion 
+xdg-open "https://iu.instructure.com/courses/2261435/modules" # Pre-Calc Modules 
+
+
+# Canvas Freshman Seminar 
+
 
 # Course materials
 xdg-open "https://example.com/course-materials"
