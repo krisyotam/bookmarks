@@ -33,7 +33,7 @@ xdg-open "https://example.com/study-group"
 /path/to/matlab &
 
 # Open Obsidian
-/path/to/obsidian &
+/path/to/logseq &
 
 # Add any other applications or links as needed
 
