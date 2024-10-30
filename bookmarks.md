@@ -4,6 +4,17 @@
 - Tech Portfolio: https://krisyotam.github.io/myportfolio/
 - Math Blog: 
 
+# Mathematics 
+- [MathSciNet](https://mathscinet.ams.org/mathscinet/publications-search)
+- [American Mathematical Society](https://www.ams.org/home/page)
+- [Mathematical Association of America](https://maa.org/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 # Identity Protection 
 - Aura Identity Firm: https://www.aura.com/identity-theft-protection 
 - IronVest: https://ironvest.com/
