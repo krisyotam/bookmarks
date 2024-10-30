@@ -189,7 +189,6 @@
 - 9anime: https://9animetv.to/home
 - Manganato: https://manganato.com/index.php
 
-
 # Computer Algebraic Solver (CAS) 
 - https://www.mathworks.com/
 
@@ -215,3 +214,15 @@
 - Black Arch Install: https://blackarch.org/downloads.html 
 
 # Crypto Addresses 
+
+# Classical Education Resources 
+- [Angelico Press](https://angelicopress.com/)
+- [Circe Institute](https://circeinstitute.org/books/)
+- [Canon Press](https://canonpress.com/collections/math)
+- [Logos Press](https://logospressonline.com/collections/all-subjects)
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
