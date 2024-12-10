@@ -1,8 +1,13 @@
 # My Websites 
-- Coaching: https://beacons.ai/krisyotam/home
-- Tech Blog: https://krisyotam.github.io/myblog/
-- Tech Portfolio: https://krisyotam.github.io/myportfolio/
-- Math Blog: 
+- [Biosite](https://krisbio.vercel.app/)
+- [Main Blog](https://krisyotam.vercel.app/)
+- [HI Blog](https://saintkris.vercel.app/index.html)
+- [Tech Blog](https://khr1st.vercel.app/)
+- [Math Blog](https://krismathblog.vercel.app/index.html)
+- [Reading Log](https://readinglog.vercel.app/)
+- [Keynotes](https://masterclass-tau.vercel.app/)
+- [Portfolio](https://krisyotam.github.io/myportfolio/)
+- [Resume]()
 
 # Mathematics 
 - [MathSciNet](https://mathscinet.ams.org/mathscinet/publications-search)
@@ -198,6 +203,7 @@
 
 # Entertainment 
 - 9anime: https://9animetv.to/home
+- HiAnime: 
 - Manganato: https://manganato.com/index.php
 
 # Computer Algebraic Solver (CAS) 
