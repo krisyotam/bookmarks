@@ -1,3 +1,8 @@
+# Social
+- [AllPoetry](https://allpoetry.com/krisyotam)
+- [00x0sec](https://0x00sec.org/u/khr1st/summary)
+
+
 # My Websites 
 - [Biosite](https://krisbio.vercel.app/)
 - [Main Blog](https://krisyotam.vercel.app/)
